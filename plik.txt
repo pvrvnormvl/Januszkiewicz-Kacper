@@ -1,0 +1,11 @@
+Podciagi o sumie 8 to:
+[-5, 5, 3, 5]
+[5, 3]
+[3, 5]
+Najdluzszy podciag to:
+[-5, 5, 3, 5]
+o dlugosci 4
+Wygenerowany podciag to: 
+[4, 0, 1, -5, 4, -1, -1, 2, -1, 0]
+Podciagi o sumie 7 to:
+Brak takich podciagow
