@@ -6,6 +6,12 @@ Najdluzszy podciag to:
 [-5, 5, 3, 5]
 o dlugosci 4
 Wygenerowany podciag to: 
-[4, 0, 1, -5, 4, -1, -1, 2, -1, 0]
+[0, -5, 2, -5, 1, 0, -2, 0, -3, 0]
 Podciagi o sumie 7 to:
 Brak takich podciagow
+Podciagi o sumie 4 to:
+[4]
+[4, -5, 3, 2]
+Najdluzszy podciag to:
+[4, -5, 3, 2]
+o dlugosci 4
